@@ -33,7 +33,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'whddus0789@gmail.com'
-EMAIL_HOST_PASSWORD = 'yeon5094'
+EMAIL_HOST_PASSWORD = '1234'
 
 # Application definition
 
